@@ -43,7 +43,7 @@ You stare into the shining sea amazed by it's seeming stillness and yet you see 
 
 == examine_post ==
 The box has four up turned strange horn like knob's in the middle of each of the side's faces acting as hook's.  Above each of these hook's is a foreign sigil etched with precision in a language you dont understand, however you are drawn to one sigil in particular.  
-* Read Sigil -> i_promise
+* [Read Sigil] -> i_promise
 
 == cottage_promise
 Continuing the path from the shoreline you notice that the path begins to be surrounded by large tree's with light blue leaves the like's which you have never seen, the explorer inside drive's you to find out what kind of miraculous thing's could be found behind thier looming beauty but your instinct tell's you to stay the path.  At it's end it narrows to a pinpoint on the ground barely wide enough for one person to walk before expanding into a minor opening.  In that opening you see a black Cottage.
@@ -52,7 +52,7 @@ Continuing the path from the shoreline you notice that the path begins to be sur
 + [Return to Shoreline] -> shore_line
 
 == examine_cottage ==
-The black cottage exudes a dark black sheen.  {examine_post: It reminds you of the Post.} Minus the color it would seem like a nice ordinary cottage at a glance but upon further inspection you begin to notice alot of odd geometry.  The window's are triangular and it's chimney top looks to have a thread like texture.  The brick is rounded in such a way that it almost appears to be made of metal and the window's had a light blue tint.  All the grass that grew around it was mostly normal until it got about 5 feet near the place, then all that seemed to grow were peculiar grey mushroom's that gave off a chemical odor but in a pleasant way.
+The black cottage exudes a dark black sheen.  {examine_post: It reminds you of the Post.} Minus the color it would seem like a nice ordinary cottage at a glance but upon further inspection you begin to notice alot of odd geometry.  The window's are triangular and it's chimney top looks to have a thread like texture.  The brick is rounded in such a way that it almost appears to be made of metal and the window's have a light blue tint.  All the grass that grew around it was mostly normal until about 5 feet near the perimeter, then all that seemed to grow there were peculiar grey mushroom's that gave off a chemical odor but in a pleasant way.
 + [Go Back] -> cottage_promise
 
 == enter_cottage ==
@@ -61,27 +61,27 @@ You attempt to twist open the doorknob but it wont budge, it seem's to be locked
 + [Go Back] -> cottage_promise
 
 == the_beginning ==
-You enter the cottage, the light's luckily were on.  It looked relatively normal, there's some cabinet's with a kitchen stove to your left with a kettle whistling, to your right you can see some furnature and small table near a tiny staircase leading upstairs.  However the oddity came from a mirror at the other end of the living room.
+You enter the cottage, the light's luckily were on.  It looked relatively normal, there's some cabinet's with a kitchen stove to your left with a kettle whistling, to your right you can see some furnature and small table near a tiny staircase leading upstairs.  However there was an anomaly.  It came from a mirror placed at the other end of the living room.
 * [Examine Mirror] -> the_mirror
 
 == the_mirror == 
-The Mirror was mostly normal beside's having a metalic crimson frame but its staged presentation in the room that made me uneasy.  As I approached it another sigil became visible at the top of the mirror.  All of a sudden I could sense someone behind me.  
+The Mirror was mostly normal beside's having a metallic crimson colored frame but it is its staged presentation in the room that make's you uneasy.  As you approach it another sigil become's visible at the top of the mirror.  All of a sudden you sense someone behind you.  
 * [Turn Around] -> the_entity
 
 == the_entity ==
-A black sheened pool had appeared on the ceiling near the door where I entered.  Thick thread's began to drape down swirly from the ceiling to the floor.  An entity emerged.  From what I could make out, it's head was a green olive shaped thing and it had larger than normal eye's but it was wearing sun glasses almost as if it was trying to hide this fact.  It was tall but its head was around my height, it almost seemed to be hunched over.  The only clothing I could see is the thread like material that had draped down to the floor.
+A black sheened pool had appeared on the ceiling near the door where you entered.  Thick thread's began to drape down swirly from the ceiling to the floor.  An entity emerged.  From what you can make out, it's head was a green olive shaped thing with enlarged eyes, it wears sun glasses almost as if it were trying to hide this fact.  It was very tall but its head was only around your height, it almost seemes to be hunched over.  The only clothing that can be seen is the thread like material that hads draped down to the floor.
 * [say "What are you?"] -> the_end
 
 == the_end ==
-Before you can get the word's out of your mouth the entity cut's you off.  
+Before you can get the word's out the entity cut's you off.  
 
 "Samanthall Bridgers, you are too early" the entity state's with a deep echoing vibration.
 
-Your name, the memories finally start to flood back, the mission to retrieve the Exiled Code's, the Zulithian Ruin's, the cracking of the inner chamber, and the Promise I made so long ago.  The entiny's arm emerged from the thread.
+Your name.  The memories finally start to flood back.  The mission to retrieve the Exiled Code's, the Zulithian Ruin's, the cracking of the inner chamber, and a Promise made so long ago.  You notice the entiny's arm emerges from the thread.
 
-"Dont worry you'll be back here soon enough.  The entity stare's at some marking's on its arm.  "Id say try again in about 20 or so more cycle's, it should be the proper time then, you cant rush things, some things are just too important."  
+"Dont worry you'll be back here soon enough."  The entity stare's at some marking's on its arm.  "Id say try again in about 20 something cycle's, it should be the proper time then...  You cant rush things.  Some things are just too important."  
 
-The entity point's its arm at the mirror, the palm of its hand glowing red  You turn around to see the sigil is glowing red as well.  The inside the mirror is all black now, with a sharp sheen.  Out of nowhere a red searing light blinds all of a sudden you begin to tumbling down into the shiny darkness of the inner mirror.  All you can hear is the entities voice echo in a snicker, "Don't forget your Promise Sam..."  All you feel now is terror, a sense of duty and confusion as you know not where this darkness goes.
+The entity point's its arm at the mirror, the palm of its hand glowing red, you turn around to see the sigil is glowing red as well.  Inside the mirror is all black now, with a sharp sheen.  Out of nowhere a red searing light blinds.  You accidentally stumble into the shiny darkness of the inner mirror.  All you can hear is the entities voice echo in a playful snicker, "Now don't forget your Promise Sam..."  All you feel now is terror, a renewed sense of duty and confusion as you know not where this darkness goes.
 
 THE END -> DONE
 
